@@ -1,0 +1,7 @@
+{
+  "name": "rdp-logging",
+  "version": "0.1",
+  "author": "Luca Greco (https://github.com/rpl)",
+  "description": "a small addon-sdk module to log Mozilla RemoteDebuggingProtocol and generate UML Sequence diagrams",
+  "license": "MPL 2.0"
+}
