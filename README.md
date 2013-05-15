@@ -42,3 +42,13 @@ enableRDPLogging(true);
 ### as base dir
 flushRDPLogging("test-remote-simulator-client");
 ```
+
+## EXAMPLE: diagram generation integrated into FirefoxOS Simulator tests
+
+As an example of integration of rdp-logging into an addon-sdk based project,
+I've pushed an experimental branch into my r2d2b2g github fork:
+
+* https://github.com/rpl/r2d2b2g/compare/test;rdp-logging
+
+Using this branch we can generate Mozilla RDP logs into **addon/test/RDPLOGS** dir
+using **make test** and optionally generate *png* diagrams using **make plantuml**.
