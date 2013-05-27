@@ -8,7 +8,9 @@ inject "Mozilla Remote Debugger Protocol" messages logging into a
 debugger client transport and to save logged messages into a JSON file
 and generate a UML Sequence diagram using PlantUML syntax
 (as in http://github.com/rpl/MozillaRDP-wireshark-plugins but without
-tshark and node dependencies).
+tshark and node dependencies) or using its companion Web-based viewer:
+
+- [RDPLogViewer](http://rpl.github.io/rdp-log-viewer)
 
 It can be useful to generate UML Sequence diagrams from test units.
 
