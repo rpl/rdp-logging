@@ -1,6 +1,8 @@
 rdp-logging Addon-SDK package
 =============================
 
+Status: **PROOF OF CONCEPT**
+
 This package contains a small utility module which helps to
 inject "Mozilla Remote Debugger Protocol" messages logging into a
 debugger client transport and to save logged messages into a JSON file
