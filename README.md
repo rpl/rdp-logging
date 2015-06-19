@@ -56,3 +56,5 @@ I've pushed an experimental branch into my r2d2b2g github fork:
 
 Using this branch we can generate Mozilla RDP logs into **addon/test/RDPLOGS** dir
 using **make test** and optionally generate *png* diagrams using **make plantuml**.
+
+Test from prose.io.
